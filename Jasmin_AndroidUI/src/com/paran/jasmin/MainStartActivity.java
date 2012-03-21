@@ -17,6 +17,6 @@ public class MainStartActivity extends Activity {
         
         // 555555
     }
-// 1234
+// 1234 진짜 올라가나? 
     
 }
