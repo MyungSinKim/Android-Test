@@ -10,7 +10,7 @@ public class MainStartActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-
+	// 12345
     }
 // 1234
     
