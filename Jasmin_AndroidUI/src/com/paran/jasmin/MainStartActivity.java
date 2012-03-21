@@ -11,6 +11,8 @@ public class MainStartActivity extends Activity {
         setContentView(R.layout.main);
 
 	// 12345
+        
+        // 23456
     }
 // 1234
     
