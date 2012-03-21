@@ -12,13 +12,15 @@ public class MainStartActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-	// 12345
+        // 12345
         
         // 23456
         
         // 44444444444
         
         // 7777777777777
+        
+        // 888888888888888
     }
 
     
