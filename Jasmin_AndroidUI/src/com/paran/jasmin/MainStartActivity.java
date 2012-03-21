@@ -25,5 +25,4 @@ public class MainStartActivity extends Activity {
 cdscdscdscs
     
     
->>>>>>> branch 'refs/heads/master' of git://github.com/MyungSinKim/Android-Test.git
 }
