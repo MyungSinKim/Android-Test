@@ -20,9 +20,6 @@ public class MainStartActivity extends Activity {
         // 7777777777777
     }
 // 1234
-
-
-cdscdscdscs
     
     
 }
