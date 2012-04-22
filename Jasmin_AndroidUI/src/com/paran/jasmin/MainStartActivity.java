@@ -22,7 +22,6 @@ public class MainStartActivity extends Activity {
         
         // 888888888888888 999999999999999999999
     }
-
     
     
 }
